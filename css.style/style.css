@@ -1,0 +1,31 @@
+
+
+
+/* upper box */
+#uper-box{
+    background-color: rgb(172, 70, 70);
+    height: 1000px;
+}
+#up-cont{
+    padding: 20px;
+    display: inline-block;
+    max-width: 1800px;
+}
+#up-cont p{
+    display: inline-block;
+width: 30%;
+margin: auto;
+text-align: center;
+float: none;
+
+}
+#up-cont #img1{
+   
+    width: 30%;
+    float: left;
+}
+#up-cont #img2{
+   
+    width: 30%;
+    float: right;
+}
