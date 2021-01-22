@@ -113,6 +113,9 @@ float: none;
     width: 30%;
     float: right;
 }
+#up-cont #img2 img{
+    margin: auto;
+}
 /* mid box */
 
 #mid-box{
