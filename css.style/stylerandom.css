@@ -2,16 +2,23 @@ body{
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
+    
+}
+#line{
+     border-bottom:1px solid rgb(218, 218, 218) ;
 }
 header{
     
-    height: 200px;
+    height: 100px;
     margin: auto;
     max-width: 1100px;
+   
+    
 }
 #web-name{
     float: left;
-    border-bottom: 1px solid red;
+    
+   
 
 }
 #right-box{
@@ -40,4 +47,57 @@ li{
     margin: auto;
     text-align: center;
     
+}
+/* /// */
+
+/* big one */
+
+/* \\\ */
+
+#Bigone{
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: 200px 0px;
+
+
+}
+#Bigone img{
+    margin: auto;
+}
+
+/* /// */
+
+/* pic box */
+
+/* \\\ */
+
+#pic-box{
+    
+    margin: auto;
+    text-align: center;
+}
+#pic-container{
+    display: inline-block;
+    max-width: 13000px;
+    margin: auto;
+    text-align: center;
+    padding: 200px;
+}
+
+.content-left{
+    border: orangered 1px solid;
+    width: 50%;
+  
+    float: left;
+
+}
+.content-right{
+    width: 50%;
+    float: right;
+}
+
+#c1{
+   
+    padding: 100px;
 }
