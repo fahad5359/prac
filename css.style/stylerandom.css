@@ -71,28 +71,3 @@ li{
 /* qooute-box */
 
 /* \\\ */
-
-#qooute-box{
-    height: 1000px;
-}
-
-#connt{
-    margin: auto;
-    text-align: center;
-    max-width: 1300px;
-}
-
-.c-left{
-    
-    width: 50%;
-    float: left;
-}
-#left-cont p{
-    float: left;
-   
-}
-.c-right{
-    width: 50%;
-    float: right;
-
-}
