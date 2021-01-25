@@ -68,6 +68,30 @@ li{
 
 /* /// */
 
-/* qooute-box */
+/* bottom-box */
 
 /* \\\ */
+#bottom-container{
+    margin: auto;
+    max-width: 1300px;
+}
+.inline{
+    display: inline;
+}
+
+#left{
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+
+
+#right{
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    float: right;
+}
