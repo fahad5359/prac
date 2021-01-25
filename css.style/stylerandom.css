@@ -81,17 +81,17 @@ li{
 
 #left{
     padding: 10px;
-    margin: auto;
+   
     text-align: center;
-    width: 50%;
+    width: 40%;
     float: left;
 }
 
 
 #right{
     padding: 10px;
-    margin: auto;
+   
     text-align: center;
-    width: 50%;
+    width: 40%;
     float: right;
 }
