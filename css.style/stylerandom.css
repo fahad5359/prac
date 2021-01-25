@@ -4,11 +4,21 @@ body{
     box-sizing: border-box;
     
 }
-#line{
-     border-bottom:1px solid rgb(218, 218, 218) ;
+span{
+   color: #1D3C5E; 
 }
+#line{
+     border-bottom:1px solid rgb(225, 105, 105) ;
+}
+#lin2{
+    border-bottom:1px solid rgb(255, 255, 255) ;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
 header{
-    
+   
     height: 100px;
     margin: auto;
     max-width: 1100px;
@@ -16,6 +26,8 @@ header{
     
 }
 #web-name{
+    margin: auto;
+    font-size: 40px;
     float: left;
     
    
@@ -55,12 +67,16 @@ li{
 /* \\\ */
 
 #Bigone{
+    background-color: #0D1B2A;
     text-align: center;
     display: block;
     margin: auto;
     padding: 200px 0px;
-
-
+    color: wheat;
+}
+#Bigone P{
+    
+    /* border-bottom: 2PX solid; */
 }
 #Bigone img{
     margin: auto;
@@ -75,12 +91,15 @@ li{
     margin: auto;
     max-width: 1300px;
 }
+#bag p{
+    border-bottom: 1px solid black;
+}
 .inline{
     display: inline;
 }
 
 #left{
-    padding: 10px;
+    padding: 30px;
    
     text-align: center;
     width: 40%;
@@ -89,7 +108,7 @@ li{
 
 
 #right{
-    padding: 10px;
+    padding: 30px;
    
     text-align: center;
     width: 40%;
